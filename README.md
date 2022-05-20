@@ -1,2 +1,2 @@
 # badIPS
-220 IPs
+70385 IPs
