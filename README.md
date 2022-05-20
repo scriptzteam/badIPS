@@ -1,2 +1,2 @@
 # badIPS
-537 IPs
+70443 IPs
