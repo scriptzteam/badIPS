@@ -1,2 +1,2 @@
 # badIPS
-70602 IPs
+70603 IPs
