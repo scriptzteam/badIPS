@@ -1,2 +1,2 @@
 # badIPS
-2021 IPs
+2022 IPs
