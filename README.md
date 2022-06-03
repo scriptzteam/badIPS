@@ -1,2 +1,2 @@
 # badIPS
-2811 IPs
+2812 IPs
