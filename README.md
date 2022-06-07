@@ -1,2 +1,2 @@
 # badIPS
-5017 IPs
+5018 IPs
