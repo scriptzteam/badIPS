@@ -1,2 +1,2 @@
 # badIPS
-5506 IPs
+5507 IPs
