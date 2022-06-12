@@ -1,2 +1,2 @@
 # badIPS
-6400 IPs
+6404 IPs
