@@ -1,2 +1,2 @@
 # badIPS
-6919 IPs
+6921 IPs
