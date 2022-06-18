@@ -1,2 +1,2 @@
 # badIPS
-9379 IPs
+9380 IPs
