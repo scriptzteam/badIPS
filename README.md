@@ -1,2 +1,2 @@
 # badIPS
-11704 IPs
+11706 IPs
