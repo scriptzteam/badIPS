@@ -1,2 +1,2 @@
 # badIPS
-12059 IPs
+12062 IPs
