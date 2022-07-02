@@ -1,2 +1,2 @@
 # badIPS
-18440 IPs
+18444 IPs
