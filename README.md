@@ -1,2 +1,2 @@
 # badIPS
-20404 IPs
+20405 IPs
