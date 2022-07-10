@@ -1,2 +1,2 @@
 # badIPS
-6018 IPs
+6019 IPs
