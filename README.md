@@ -1,2 +1,2 @@
 # badIPS
-6039 IPs
+6040 IPs
