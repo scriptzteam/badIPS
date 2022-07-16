@@ -1,2 +1,2 @@
 # badIPS
-8223 IPs
+8224 IPs
