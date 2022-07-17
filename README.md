@@ -1,2 +1,2 @@
 # badIPS
-8602 IPs
+8604 IPs
