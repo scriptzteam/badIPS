@@ -1,2 +1,2 @@
 # badIPS
-10306 IPs
+10308 IPs
