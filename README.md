@@ -1,2 +1,2 @@
 # badIPS
-19876 IPs
+19880 IPs
