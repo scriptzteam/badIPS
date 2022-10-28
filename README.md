@@ -1,2 +1,2 @@
 # badIPS
-20055 IPs
+20058 IPs
