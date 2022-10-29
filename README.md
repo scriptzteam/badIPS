@@ -1,2 +1,2 @@
 # badIPS
-20070 IPs
+20072 IPs
