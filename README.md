@@ -1,2 +1,2 @@
 # badIPS
-30808 IPs
+30824 IPs
