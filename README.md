@@ -1,2 +1,2 @@
 # badIPS
-165 IPs
+30913 IPs
