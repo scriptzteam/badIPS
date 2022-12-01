@@ -1,2 +1,2 @@
 # badIPS
-660 IPs
+32004 IPs
