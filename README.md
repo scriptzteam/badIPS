@@ -1,2 +1,2 @@
 # badIPS
-21 IPs
+35411 IPs
