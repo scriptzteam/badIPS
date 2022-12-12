@@ -1,2 +1,2 @@
 # badIPS
-35520 IPs
+35523 IPs
