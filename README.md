@@ -1,2 +1,2 @@
 # badIPS
-2172 IPs
+38018 IPs
