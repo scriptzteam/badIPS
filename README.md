@@ -1,2 +1,2 @@
 # badIPS
-42024 IPs
+42080 IPs
