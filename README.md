@@ -1,2 +1,2 @@
 # badIPS
-44683 IPs
+44722 IPs
