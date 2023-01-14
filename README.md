@@ -1,2 +1,2 @@
 # badIPS
-44408 IPs
+44420 IPs
