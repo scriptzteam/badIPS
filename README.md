@@ -1,2 +1,2 @@
 # badIPS
-45122 IPs
+45132 IPs
