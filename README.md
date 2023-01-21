@@ -1,2 +1,2 @@
 # badIPS
-48101 IPs
+48134 IPs
