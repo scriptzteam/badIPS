@@ -1,2 +1,2 @@
 # badIPS
-50002 IPs
+50003 IPs
