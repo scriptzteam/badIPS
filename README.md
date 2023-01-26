@@ -1,2 +1,2 @@
 # badIPS
-50442 IPs
+50444 IPs
