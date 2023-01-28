@@ -1,2 +1,2 @@
 # badIPS
-51016 IPs
+51020 IPs
