@@ -1,2 +1,2 @@
 # badIPS
-52016 IPs
+52024 IPs
