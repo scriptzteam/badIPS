@@ -1,2 +1,2 @@
 # badIPS
-52472 IPs
+52477 IPs
