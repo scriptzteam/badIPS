@@ -1,2 +1,2 @@
 # badIPS
-61614 IPs
+61615 IPs
