@@ -1,2 +1,2 @@
 # badIPS
-62990 IPs
+62995 IPs
