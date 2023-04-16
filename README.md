@@ -1,2 +1,2 @@
 # badIPS
-70405 IPs
+70407 IPs
