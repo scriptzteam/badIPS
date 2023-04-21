@@ -1,2 +1,2 @@
 # badIPS
-70968 IPs
+70970 IPs
