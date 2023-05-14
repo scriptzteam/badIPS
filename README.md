@@ -1,2 +1,2 @@
 # badIPS
-74120 IPs
+74126 IPs
