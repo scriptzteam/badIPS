@@ -1,2 +1,2 @@
 # badIPS
-77617 IPs
+77618 IPs
