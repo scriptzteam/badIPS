@@ -1,2 +1,2 @@
 # badIPS
-80017 IPs
+80019 IPs
