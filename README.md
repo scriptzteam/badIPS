@@ -1,2 +1,2 @@
 # badIPS
-2152 IPs
+80473 IPs
