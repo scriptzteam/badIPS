@@ -1,2 +1,2 @@
 # badIPS
-80668 IPs
+80669 IPs
