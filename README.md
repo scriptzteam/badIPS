@@ -1,2 +1,2 @@
 # badIPS
-80817 IPs
+80827 IPs
