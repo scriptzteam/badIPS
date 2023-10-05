@@ -1,2 +1,2 @@
 # badIPS
-85618 IPs
+85611 IPs
