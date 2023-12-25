@@ -1,2 +1,2 @@
 # badIPS
-92003 IPs
+92010 IPs
