@@ -1,2 +1,2 @@
 # badIPS
-92059 IPs
+92061 IPs
