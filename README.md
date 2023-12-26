@@ -1,2 +1,2 @@
 # badIPS
-92018 IPs
+92020 IPs
