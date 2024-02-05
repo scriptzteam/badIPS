@@ -1,2 +1,2 @@
 # badIPS
-94666 IPs
+94667 IPs
