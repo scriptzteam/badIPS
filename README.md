@@ -1,2 +1,2 @@
 # badIPS
-97817 IPs
+97818 IPs
