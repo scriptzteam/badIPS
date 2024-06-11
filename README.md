@@ -1,2 +1,2 @@
 # badIPS
-485 IPs
+486 IPs
