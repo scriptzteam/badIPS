@@ -1,2 +1,2 @@
 # badIPS
-1933 IPs
+1936 IPs
