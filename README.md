@@ -1,2 +1,2 @@
 # badIPS
-623 IPs
+627 IPs
