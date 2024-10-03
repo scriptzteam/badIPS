@@ -1,2 +1,2 @@
 # badIPS
-2017 IPs
+2018 IPs
