@@ -1,2 +1,2 @@
 # badIPS
-2026 IPs
+281 IPs
