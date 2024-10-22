@@ -1,2 +1,2 @@
 # badIPS
-1926 IPs
+1928 IPs
