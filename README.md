@@ -1,2 +1,2 @@
 # badIPS
-2237 IPs
+2241 IPs
