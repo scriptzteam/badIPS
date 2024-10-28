@@ -1,2 +1,2 @@
 # badIPS
-1904 IPs
+1905 IPs
